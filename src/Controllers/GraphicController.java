@@ -7,8 +7,8 @@ import java.awt.BorderLayout;
 import javax.swing.JFrame;
 
 /**
- * @author zamil.majdy
- * @version 1.1
+ * @author casierni
+ * @version 1.0
  *
  * main frame class
  */

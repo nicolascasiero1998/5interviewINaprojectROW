@@ -5,8 +5,8 @@ import Views.BoardPanel;
 import Views.GridButton;
 
 /**
- * @author zamil.majdy
- * @version 1.1
+ * @author casierni
+ * @version 1.0
  *
  * Goodguy bot (AI) when using 'playing against bot mode'
  */

@@ -3,7 +3,7 @@ package Models;
 /**
  * Class that represent the board
  * 
- * @author zamil.majdy
+ * @author casierni	
  * @version 1.0
  */
 public class Board {

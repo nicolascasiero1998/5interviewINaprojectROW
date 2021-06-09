@@ -9,7 +9,7 @@ import Views.GridButton;
 
 
 /**
- * @author zamil.majdy
+ * @author casierni
  * @version 1.0
  *
  * class that control the game flow

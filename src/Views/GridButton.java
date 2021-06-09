@@ -14,8 +14,8 @@ import Models.Bot;
 import Models.Player;
 
 /**
- * @author zamil.majdy
- * @version 1.10
+ * @author casierni
+ * @version 1.0
  *
  *  class that represents GUI Buttons
  */

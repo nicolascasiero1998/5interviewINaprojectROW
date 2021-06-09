@@ -11,8 +11,8 @@ import Controllers.GameController;
 import Controllers.GraphicController;
 
 /**
- * @author zamil.majdy
- * 
+ * @author casierni
+ * @version 1.0
  * class for dropdown menu (new game menu)
  *
  */

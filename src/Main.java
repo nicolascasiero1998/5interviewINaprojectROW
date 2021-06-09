@@ -2,7 +2,7 @@ import Controllers.GameController;
 import Controllers.GraphicController;
 
 /**
- * @author zamil.majdy
+ * @author casierni
  * @version 1.10
  * 
  * Main controller class

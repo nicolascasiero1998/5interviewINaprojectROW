@@ -5,7 +5,7 @@ import Models.Board.Pawn;
 /**
  * Class that represent player color
  * 
- * @author zamil.majdy
+ * @author casierni
  * @version 1.0
  */
 

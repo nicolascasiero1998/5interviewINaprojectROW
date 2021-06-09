@@ -10,8 +10,8 @@ import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
 /**
- * @author zamil.majdy
- * @version 1.1
+ * @author casierni
+ * @version 1.0
  * 
  *  class for showing the board to screen
  */
